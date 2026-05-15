@@ -10,3 +10,5 @@ There are four major criteria that the study considers in order to identify the 
 safe sites. These include: salt marsh evaluation around potential sites, stormwater
 discharge impacts, eutrophication risk assessment, and the proximity of sites to Long
 Term Ecological Research (LTER) stations.
+
+All the analysis is done using ArcGIS Pro and Excel.
